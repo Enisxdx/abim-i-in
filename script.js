@@ -10,9 +10,11 @@ function calistir() {
     // Mesajı değiştir
     document.getElementById('content').innerHTML = `
         <h2 style="color: white;">İYİ Kİ DOĞDUN ABİ! 🎂</h2>
-        <p>Senin gibi bir abiye sahip olduğum için çok şanslıyım.</p>
-        <p>Yeni yaşında tüm yanlışlar senden uzak olsun.</p>
+        <p>Senin gibi bir abiye ve kardeşe sahip olduğum için çok şanslıyım.</p>
+        <p>Yeni yaşında tüm yanlışlar  senden uzak olsun.</p>
+        <p>İnşallah hedeflerine varırsın abim.</p>
         <p><b>-- Enis Kardeşin</b></p>
     `;
 
 }
+
