@@ -11,7 +11,8 @@ function calistir() {
     document.getElementById('content').innerHTML = `
         <h2 style="color: white;">İYİ Kİ DOĞDUN ABİ! 🎂</h2>
         <p>Senin gibi bir abiye sahip olduğum için çok şanslıyım.</p>
-        <p>Yeni yaşında tüm bug'lar senden uzak olsun.</p>
-        <p><b>-- Kardeşin</b></p>
+        <p>Yeni yaşında tüm yanlışlar senden uzak olsun.</p>
+        <p><b>-- Enis Kardeşin</b></p>
     `;
+
 }
